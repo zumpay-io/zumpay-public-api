@@ -1,0 +1,17 @@
+{
+  "mysql": {
+    "host": "localhost",
+    "port": 3306,
+    "username": "root",
+    "password": "password",
+    "database": "zumcoin",
+    "connectionLimit": 10
+  },
+  "bindIp": "0.0.0.0",
+  "httpPort": 80,
+  "corsHeader": "*",
+  "coinDecimals": 8,
+  "coinUri": "zumcoin",
+  "defaultConfirmations": 30,
+  "maximumConfirmations": 60
+}

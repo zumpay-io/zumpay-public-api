@@ -1,0 +1,25 @@
+{
+  "name": "zumpay-public-api",
+  "version": "1.2.1",
+  "description": "ZumPay Public API Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ZumPay"
+  ],
+  "author": "ZumPay Developers\u001b[HThe",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "amqplib": "^0.5.3",
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.3",
+    "express": "^4.16.4",
+    "helmet": "^3.15.0",
+    "mysql": "^2.16.0",
+    "zumcoin-utils": "git+https://github.com/zumcoin-org/zumcoin-utils.git",
+    "uuid": "^3.3.2"
+  }
+}
