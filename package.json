@@ -19,7 +19,7 @@
     "express": "^4.16.4",
     "helmet": "^3.15.0",
     "mysql": "^2.16.0",
-    "zumcoin-utils": "git+https://github.com/zumcoin-org/zumcoin-utils.git",
+    "zumcoin-utils": "git+https://github.com/zumcoin/zumcoin-utils.git",
     "uuid": "^3.3.2"
   }
 }
